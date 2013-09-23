@@ -1,4 +1,4 @@
-rainyday.js + WebSaver
+Rainyday.saver (rainyday.js + WebSaver)
 ===========
 A simple script for simulating raindrops falling on a glass surface.
 
@@ -11,5 +11,5 @@ A simple script for simulating raindrops falling on a glass surface.
 * Double click on `Rainyday.saver`
 
 ## Sources
-[WebSaver](https://github.com/tlrobinson/WebSaver)
-[raijnyday.js](https://github.com/maroslaw/rainyday.js)
+* [WebSaver](https://github.com/tlrobinson/WebSaver)
+* [rainyday.js](https://github.com/maroslaw/rainyday.js)
