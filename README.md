@@ -8,7 +8,7 @@ A simple script for simulating raindrops falling on a glass surface.
 ## Install
 * Download [here as zip](https://github.com/bartoszkopinski/rainyday.js-screensaver/archive/master.zip)
 * Unpack
-* Double click on `Web.saver`
+* Double click on `Rainyday.saver`
 
 ## Sources
 [WebSaver](https://github.com/tlrobinson/WebSaver)
